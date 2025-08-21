@@ -3,23 +3,29 @@ import jsonServer from 'json-server';
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 
-// ⛔ disable the default /public static dir that keeps crashing
+// Disable static serving (avoid /app/public scans)
 const middlewares = jsonServer.defaults({ static: undefined });
 
 server.use(middlewares);
 
-// (CORS explicit, just in case)
+// Very permissive CORS for frontend to call this API
 server.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, PATCH, PUT, DELETE, OPTIONS');
-  if (req.method === 'OPTIONS') return res.sendStatus(200);
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader(
+    'Access-Control-Allow-Methods',
+    'GET, POST, PUT, PATCH, DELETE, OPTIONS'
+  );
+  res.setHeader(
+    'Access-Control-Allow-Headers',
+    'Content-Type, Authorization'
+  );
+  if (req.method === 'OPTIONS') return res.sendStatus(204);
   next();
 });
 
 server.use(router);
 
-const port = process.env.PORT || 3000;
-server.listen(port, '0.0.0.0', () => {
-  console.log(`JSON Server running on ${port}`);
+const PORT = process.env.PORT || 3000;
+server.listen(PORT, () => {
+  console.log(`JSON Server running at http://localhost:${PORT}`);
 });

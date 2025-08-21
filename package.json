@@ -7,9 +7,9 @@
     "start": "node server.mjs"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "1.0.0-beta.3"
   },
   "engines": {
-    "node": ">=18"
+    "node": "20.x"
   }
 }
