@@ -1,11 +1,5 @@
 {
-  "name": "news-api",
-  "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
-  },
-  "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0 --static ."
   }
 }
