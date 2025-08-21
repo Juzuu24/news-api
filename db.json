@@ -1,0 +1,197 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "topic": "Government announces new education policy",
+      "shortDetail": "Rumors spread online about changes in tuition fees.",
+      "detail": "A viral post claimed tuition fees would double starting next year. Officials confirmed this is FALSE and clarified no such policy exists.",
+      "reporter": "Alice Min",
+      "reportedAt": "2025-08-01T09:30:00Z",
+      "eventLink": "https://example.com/news/edu-policy",
+      "image": "https://picsum.photos/seed/edu/600/300"
+    },
+    {
+      "id": "2",
+      "topic": "New COVID-19 variant detected",
+      "shortDetail": "Social media post warns of a deadly new strain.",
+      "detail": "Experts confirmed a new variant exists, but WHO stated it is not more deadly than existing ones. The viral post exaggerated risks.",
+      "reporter": "John Lee",
+      "reportedAt": "2025-08-02T15:00:00Z",
+      "eventLink": "https://example.com/news/covid-variant",
+      "image": "https://picsum.photos/seed/covid/600/300"
+    },
+    {
+      "id": "3",
+      "topic": "Local farmer wins sustainability award",
+      "shortDetail": "News about eco-friendly farming practices gains attention.",
+      "detail": "The story is TRUE. The award was presented by the Ministry of Agriculture to support eco-friendly initiatives.",
+      "reporter": "Mya Aye",
+      "reportedAt": "2025-08-03T12:00:00Z",
+      "eventLink": "https://example.com/news/farmer-award",
+      "image": "https://picsum.photos/seed/farmer/600/300"
+    },
+    {
+      "id": "4",
+      "topic": "Massive earthquake predicted this week",
+      "shortDetail": "A viral video warns of a disaster hitting Southeast Asia.",
+      "detail": "Seismologists confirmed earthquakes cannot be predicted with exact dates. This claim is FALSE.",
+      "reporter": "Nyan Htun",
+      "reportedAt": "2025-08-04T18:00:00Z",
+      "eventLink": "https://example.com/news/earthquake",
+      "image": "https://picsum.photos/seed/quake/600/300"
+    },
+    {
+      "id": "5",
+      "topic": "University opens new technology lab",
+      "shortDetail": "Photos shared of students using AI equipment.",
+      "detail": "TRUE story. The new facility aims to support AI and robotics research with state-of-the-art tools.",
+      "reporter": "Su Su",
+      "reportedAt": "2025-08-05T11:00:00Z",
+      "eventLink": "https://example.com/news/tech-lab",
+      "image": "https://picsum.photos/seed/lab/600/300"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "newsId": 1,
+      "text": "I saw this on Facebook, thanks for clarifying!",
+      "imageUrl": "",
+      "createdAt": "2025-08-06T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "newsId": 2,
+      "text": "Scary how misinformation spreads so fast.",
+      "imageUrl": "",
+      "createdAt": "2025-08-06T11:30:00Z"
+    },
+    {
+      "id": "3",
+      "newsId": 3,
+      "text": "Great to see recognition for local farmers!",
+      "imageUrl": "",
+      "createdAt": "2025-08-07T09:45:00Z"
+    }
+  ],
+  "userComments": [
+    {
+      "id": "5901",
+      "newsId": "1",
+      "text": "great",
+      "imageUrl": "",
+      "createdAt": "2025-08-21T09:47:40.863Z",
+      "author": "You"
+    }
+  ],
+  "votes": [
+    {
+      "id": "5d2d",
+      "newsId": 1,
+      "dir": 1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "583c",
+      "newsId": 2,
+      "dir": -1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "5d8d",
+      "newsId": 3,
+      "dir": 1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "15e1",
+      "newsId": 5,
+      "dir": -1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "8e7f",
+      "newsId": 1,
+      "dir": -1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "b2f2",
+      "newsId": 2,
+      "dir": -1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "7e93",
+      "newsId": 3,
+      "dir": 1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "4b4a",
+      "newsId": 4,
+      "dir": -1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "adac",
+      "newsId": 5,
+      "dir": 1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "0954",
+      "newsId": 4,
+      "dir": 1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "4e2e",
+      "newsId": "1",
+      "dir": -1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "6896",
+      "newsId": "2",
+      "dir": -1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "805a",
+      "newsId": "3",
+      "dir": 1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "2474",
+      "newsId": "4",
+      "dir": 1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "9c9a",
+      "newsId": "5",
+      "dir": -1,
+      "userId": "user-yqwndlf"
+    },
+    {
+      "id": "b928",
+      "newsId": "1",
+      "dir": -1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "fb46",
+      "newsId": "2",
+      "dir": 1,
+      "userId": "user-6wojkmi"
+    },
+    {
+      "id": "f3fe",
+      "newsId": "1",
+      "dir": -1,
+      "userId": "user-jui6wqb"
+    }
+  ]
+}
