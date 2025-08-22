@@ -4,7 +4,7 @@ const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 
 // Disable static serving (avoid /app/public scans)
-const middlewares = jsonServer.defaults({ static: undefined });
+const middlewares = jsonServer.defaults({ static: false });
 
 server.use(middlewares);
 
