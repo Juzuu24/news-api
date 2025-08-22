@@ -92,26 +92,6 @@
     },
     {
       "id": "10",
-      "topic": "New bridge reduces city traffic jams",
-      "shortDetail": "Commuters report faster travel times.",
-      "detail": "The opening of a new bridge has significantly eased traffic congestion in the downtown area. City planners say the project was completed ahead of schedule and under budget. Local businesses are also seeing increased foot traffic as a result.",
-      "reporter": "Soe Win",
-      "reportedAt": "2025-08-10T07:30:00Z",
-      "eventLink": "https://example.com/news/bridge",
-      "image": "https://picsum.photos/seed/bridge/600/300"
-    },
-    {
-      "id": "11",
-      "topic": "Mobile app helps farmers track weather",
-      "shortDetail": "New tech aims to boost crop yields.",
-      "detail": "A new mobile application provides real-time weather updates and farming tips to rural communities. Early adopters report improved crop planning and reduced losses due to unexpected weather changes.",
-      "reporter": "Ei Mon",
-      "reportedAt": "2025-08-11T13:00:00Z",
-      "eventLink": "https://example.com/news/farm-app",
-      "image": "https://picsum.photos/seed/app/600/300"
-    },
-    {
-      "id": "12",
       "topic": "False alarm over school closure",
       "shortDetail": "Parents receive misleading text messages.",
       "detail": "A text message claiming all schools would close for a week due to health concerns was confirmed to be a hoax. The Ministry of Education urges parents to check official announcements.",
@@ -121,7 +101,7 @@
       "image": "https://picsum.photos/seed/school/600/300"
     },
     {
-      "id": "13",
+      "id": "11",
       "topic": "Solar power project powers rural villages",
       "shortDetail": "Renewable energy brings electricity to remote areas.",
       "detail": "A government-backed solar project has brought electricity to over 50 rural villages. Residents report improved quality of life and new economic opportunities.",
@@ -130,18 +110,9 @@
       "eventLink": "https://example.com/news/solar",
       "image": "https://picsum.photos/seed/solar/600/300"
     },
+   
     {
-      "id": "14",
-      "topic": "Celebrity donation rumor clarified",
-      "shortDetail": "False claims about a celebrity's charity work.",
-      "detail": "A viral post claimed a local celebrity donated millions to charity. The celebrity's management confirmed the story is exaggerated, though donations were made to several causes.",
-      "reporter": "Cherry Moe",
-      "reportedAt": "2025-08-14T17:00:00Z",
-      "eventLink": "https://example.com/news/celebrity",
-      "image": "https://picsum.photos/seed/celebrity/600/300"
-    },
-    {
-      "id": "15",
+      "id": "12",
       "topic": "Flood warning issued for river towns",
       "shortDetail": "Authorities urge residents to prepare.",
       "detail": "Meteorologists have issued a flood warning for towns along the river. Emergency services are on standby, and residents are advised to follow evacuation plans if necessary.",
@@ -150,18 +121,9 @@
       "eventLink": "https://example.com/news/flood",
       "image": "https://picsum.photos/seed/flood/600/300"
     },
+    
     {
-      "id": "16",
-      "topic": "Fake scholarship offers target students",
-      "shortDetail": "Scammers impersonate universities.",
-      "detail": "Students are warned about fraudulent scholarship offers that request personal information and payment. Universities remind applicants to use official channels for scholarship applications.",
-      "reporter": "Aye Chan",
-      "reportedAt": "2025-08-16T10:00:00Z",
-      "eventLink": "https://example.com/news/scholarship",
-      "image": "https://picsum.photos/seed/scholarship/600/300"
-    },
-    {
-      "id": "17",
+      "id": "13",
       "topic": "Community garden project flourishes",
       "shortDetail": "Local volunteers grow fresh produce.",
       "detail": "A community garden initiative has produced a bountiful harvest, providing fresh vegetables to local families. Organizers plan to expand the project to more neighborhoods.",
@@ -171,7 +133,7 @@
       "image": "https://picsum.photos/seed/garden/600/300"
     },
     {
-      "id": "18",
+      "id": "14",
       "topic": "Rumor about vaccine side effects debunked",
       "shortDetail": "Health experts address misinformation.",
       "detail": "Medical professionals confirm that vaccines are safe and effective. Reports of severe side effects are rare and often unrelated to vaccination.",
@@ -181,7 +143,7 @@
       "image": "https://picsum.photos/seed/vaccine/600/300"
     },
     {
-      "id": "19",
+      "id": "15",
       "topic": "Tech startup launches language app",
       "shortDetail": "New app helps users learn local languages.",
       "detail": "A local tech startup has launched a language learning app featuring interactive lessons and games. Early reviews praise its user-friendly design and cultural content.",
@@ -191,7 +153,7 @@
       "image": "https://picsum.photos/seed/language/600/300"
     },
     {
-      "id": "20",
+      "id": "16",
       "topic": "False report of animal escape at zoo",
       "shortDetail": "Zoo officials deny rumors.",
       "detail": "A social media post claimed several animals escaped from the city zoo. Zoo officials confirm all animals are accounted for and the post is false.",
@@ -201,7 +163,7 @@
       "image": "https://picsum.photos/seed/zoo/600/300"
     },
     {
-      "id": "21",
+      "id": "17",
       "topic": "New recycling program launched",
       "shortDetail": "City encourages residents to recycle.",
       "detail": "The city has introduced a new recycling program with convenient drop-off points. Residents are encouraged to participate to reduce landfill waste.",
@@ -210,18 +172,9 @@
       "eventLink": "https://example.com/news/recycle",
       "image": "https://picsum.photos/seed/recycle/600/300"
     },
+   
     {
-      "id": "22",
-      "topic": "Fake news about food shortage spreads",
-      "shortDetail": "Officials assure there is no shortage.",
-      "detail": "Rumors about an impending food shortage have been debunked by the Ministry of Commerce. Food supplies remain stable, and there is no need for panic buying.",
-      "reporter": "Soe Soe",
-      "reportedAt": "2025-08-22T12:00:00Z",
-      "eventLink": "https://example.com/news/food-shortage",
-      "image": "https://picsum.photos/seed/food/600/300"
-    },
-    {
-      "id": "23",
+      "id": "18",
       "topic": "School wins national science competition",
       "shortDetail": "Students develop innovative project.",
       "detail": "A local school team has won the national science competition with a project on renewable energy. The students received praise for their creativity and teamwork.",
@@ -230,18 +183,9 @@
       "eventLink": "https://example.com/news/science",
       "image": "https://picsum.photos/seed/science/600/300"
     },
+   
     {
-      "id": "24",
-      "topic": "Rumor about celebrity arrest is false",
-      "shortDetail": "Police deny involvement.",
-      "detail": "A rumor circulating online about a celebrity's arrest has been denied by police. The celebrity's management is considering legal action against those spreading false information.",
-      "reporter": "Aung Aung",
-      "reportedAt": "2025-08-24T18:00:00Z",
-      "eventLink": "https://example.com/news/celebrity-arrest",
-      "image": "https://picsum.photos/seed/arrest/600/300"
-    },
-    {
-      "id": "25",
+      "id": "19",
       "topic": "New art exhibition opens downtown",
       "shortDetail": "Artists showcase local talent.",
       "detail": "A new art exhibition featuring works by local artists has opened in the city center. The event aims to promote cultural appreciation and support emerging talent.",
@@ -251,7 +195,7 @@
       "image": "https://picsum.photos/seed/art/600/300"
     },
     {
-      "id": "26",
+      "id": "20",
       "topic": "False claim about new tax law",
       "shortDetail": "Finance Ministry clarifies policy.",
       "detail": "A viral post claimed a new tax law would increase rates for all citizens. The Finance Ministry clarified that no such law has been passed and urges the public to check official sources.",
@@ -259,46 +203,6 @@
       "reportedAt": "2025-08-26T11:00:00Z",
       "eventLink": "https://example.com/news/tax",
       "image": "https://picsum.photos/seed/tax/600/300"
-    },
-    {
-      "id": "27",
-      "topic": "Community cleans up local park",
-      "shortDetail": "Volunteers remove litter and plant trees.",
-      "detail": "A group of volunteers organized a park cleanup, collecting trash and planting new trees. The initiative has inspired similar efforts in other neighborhoods.",
-      "reporter": "Hla Hla",
-      "reportedAt": "2025-08-27T08:00:00Z",
-      "eventLink": "https://example.com/news/park",
-      "image": "https://picsum.photos/seed/park/600/300"
-    },
-    {
-      "id": "28",
-      "topic": "Fake warning about ATM scam",
-      "shortDetail": "Bank confirms security measures are in place.",
-      "detail": "A message warning of a new ATM scam has been circulating online. Banks confirm that security systems are robust and advise customers to remain vigilant but not to panic.",
-      "reporter": "Myint Myint",
-      "reportedAt": "2025-08-28T13:00:00Z",
-      "eventLink": "https://example.com/news/atm",
-      "image": "https://picsum.photos/seed/atm/600/300"
-    },
-    {
-      "id": "29",
-      "topic": "New sports complex opens to public",
-      "shortDetail": "Facility offers modern amenities.",
-      "detail": "The city has opened a new sports complex with facilities for basketball, swimming, and fitness training. Residents are encouraged to take advantage of the new amenities.",
-      "reporter": "Ko Ko",
-      "reportedAt": "2025-08-29T17:00:00Z",
-      "eventLink": "https://example.com/news/sports",
-      "image": "https://picsum.photos/seed/sports/600/300"
-    },
-    {
-      "id": "30",
-      "topic": "Rumor about internet blackout denied",
-      "shortDetail": "Telecom companies assure continuous service.",
-      "detail": "A rumor about an upcoming internet blackout has been denied by telecom providers. Companies assure customers that there are no planned outages and to disregard unverified messages.",
-      "reporter": "Soe Lay",
-      "reportedAt": "2025-08-30T12:00:00Z",
-      "eventLink": "https://example.com/news/internet",
-      "image": "https://picsum.photos/seed/internet/600/300"
     }
   ],
 
