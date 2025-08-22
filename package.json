@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": {
-    "start": "cross-env json-server --host 0.0.0.0 --port $PORT --watch db.json --static ./public"
-  },
+ "scripts": {
+  "start": "json-server --host 0.0.0.0 --port $PORT --watch db.json --static ./public"
+},
   "dependencies": {
     "json-server": "^0.17.4",
     "cross-env": "^7.0.3"
